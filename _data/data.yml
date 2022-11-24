@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: Lola the Cat
-    tagline: Proffetional Napper
-    avatar: cat-profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Professional Napper
+    avatar: catprofile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: thiseamailtotallyworks@meowmeow.com
