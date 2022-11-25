@@ -13,11 +13,11 @@ sidebar:
 
     # Sidebar links
     email: lola@meowmeow.com
-    phone: +30 pspspspsps
-    timezone:  Timezone
+    phone: +30 psp sps psps
+    timezone:  CAT Timezone
     citizenship:
     website: saveagreekstray.org/el/adoptions/find-pet/ #do not add http://
-    linkedin: 
+    linkedin: argiro-marioli-168155244/
     xing: 
     github: p17mari
     telegram: # add your nickname without '@' sign
@@ -56,18 +56,29 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      As a feline I make a great addition to any and all teams. I am fearless, a 
-      risk-taker and I love to jump into challenges when they are presented. Just out
-      of sheer curiosity and a love to testing scientific hypothesis I have jumped on hot
-      stoves, drank coffee even though it was poisonous and climbed the tallest bookcase I
-      could find just so I could knock things of it's shelves. I am a hard worker and I 
-      don't mind to get my paws dirty if the work is challenging and inspiring.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
-    info: Still a student
-      - degree: 
-        university: University of Tabbie Cates
-        time: 2022 - 2026
+    info:
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
